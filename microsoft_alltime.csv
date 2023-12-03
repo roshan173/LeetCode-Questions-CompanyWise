@@ -15,7 +15,6 @@ ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 21,Merge Two Sorted Lists,53.5%,Easy,2.862457260385365, https://leetcode.com/problems/merge-two-sorted-lists
 17,Letter Combinations of a Phone Number,46.8%,Medium,2.8573648034706545, https://leetcode.com/problems/letter-combinations-of-a-phone-number
 218,The Skyline Problem,34.6%,Hard,2.8027736985781786, https://leetcode.com/problems/the-skyline-problem
-165,Compare Version Numbers,27.4%,Medium,2.7909478091274953, https://leetcode.com/problems/compare-version-numbers
 25,Reverse Nodes in k-Group,42.1%,Hard,2.7613797410092618, https://leetcode.com/problems/reverse-nodes-in-k-group
 240,Search a 2D Matrix II,43.2%,Medium,2.7345899073645548, https://leetcode.com/problems/search-a-2d-matrix-ii
 253,Meeting Rooms II,45.7%,Medium,2.7284716366094606, https://leetcode.com/problems/meeting-rooms-ii
