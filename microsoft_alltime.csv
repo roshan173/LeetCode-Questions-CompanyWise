@@ -14,7 +14,6 @@ Status,ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 ,116,Populating Next Right Pointers in Each Node,45.2%,Medium,2.524874081924768, https://leetcode.com/problems/populating-next-right-pointers-in-each-node
 ,402,Remove K Digits,28.4%,Medium,2.4166575492538938, https://leetcode.com/problems/remove-k-digits
 ,722,Remove Comments,34.6%,Medium,2.331903153750657, https://leetcode.com/problems/remove-comments
-,75,Sort Colors,47.3%,Medium,2.3276926686708626, https://leetcode.com/problems/sort-colors
 ,24,Swap Nodes in Pairs,50.4%,Medium,2.327380452152487, https://leetcode.com/problems/swap-nodes-in-pairs
 ,151,Reverse Words in a String,21.9%,Medium,2.3264780134045004, https://leetcode.com/problems/reverse-words-in-a-string
 ,535,Encode and Decode TinyURL,79.9%,Medium,2.3039774779456117, https://leetcode.com/problems/encode-and-decode-tinyurl
@@ -510,3 +509,4 @@ Status,ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 ,1528,Shuffle String,86.1%,Easy,0, https://leetcode.com/problems/shuffle-string
 Done,5,Longest Palindromic Substring,29.5%,Medium,3.0113240473668283, https://leetcode.com/problems/longest-palindromic-substring
 Done,8,String to Integer (atoi),15.4%,Medium,2.9764877691901113, https://leetcode.com/problems/string-to-integer-atoi
+Done,75,Sort Colors,47.3%,Medium,2.3276926686708626, https://leetcode.com/problems/sort-colors
