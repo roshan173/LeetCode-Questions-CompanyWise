@@ -43,7 +43,6 @@ Status,ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 ,143,Reorder List,37.1%,Medium,1.6917986160352108, https://leetcode.com/problems/reorder-list
 ,46,Permutations,63.5%,Medium,1.6727146787726128, https://leetcode.com/problems/permutations
 ,102,Binary Tree Level Order Traversal,54.6%,Medium,1.651417093517297, https://leetcode.com/problems/binary-tree-level-order-traversal
-,56,Merge Intervals,39.3%,Medium,1.6137424284012196, https://leetcode.com/problems/merge-intervals
 ,173,Binary Search Tree Iterator,56.6%,Medium,1.5975171846753242, https://leetcode.com/problems/binary-search-tree-iterator
 ,93,Restore IP Addresses,35.6%,Medium,1.5917169493061911, https://leetcode.com/problems/restore-ip-addresses
 ,636,Exclusive Time of Functions,51.9%,Medium,1.5833981368525032, https://leetcode.com/problems/exclusive-time-of-functions
@@ -509,3 +508,4 @@ Status,ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 Done,5,Longest Palindromic Substring,29.5%,Medium,3.0113240473668283, https://leetcode.com/problems/longest-palindromic-substring
 Done,8,String to Integer (atoi),15.4%,Medium,2.9764877691901113, https://leetcode.com/problems/string-to-integer-atoi
 Done,75,Sort Colors,47.3%,Medium,2.3276926686708626, https://leetcode.com/problems/sort-colors
+,56,Merge Intervals,39.3%,Medium,1.6137424284012196, https://leetcode.com/problems/merge-intervals
