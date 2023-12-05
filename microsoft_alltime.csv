@@ -241,7 +241,6 @@ Status,ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 ,981,Time Based Key-Value Store,53.1%,Medium,0.049406315387071284, https://leetcode.com/problems/time-based-key-value-store
 ,845,Longest Mountain in Array,37.2%,Medium,0.047458490406358134, https://leetcode.com/problems/longest-mountain-in-array
 ,670,Maximum Swap,43.6%,Medium,0.04630456804168632, https://leetcode.com/problems/maximum-swap
-,494,Target Sum,46.3%,Medium,0.04353244473664264, https://leetcode.com/problems/target-sum
 ,1004,Max Consecutive Ones III,59.1%,Medium,0.041252411938220004, https://leetcode.com/problems/max-consecutive-ones-iii
 ,211,Add and Search Word - Data structure design,38.1%,Medium,0.04111576039097048, https://leetcode.com/problems/add-and-search-word-data-structure-design
 ,934,Shortest Bridge,48.2%,Medium,0.03607244121670154, https://leetcode.com/problems/shortest-bridge
@@ -509,3 +508,4 @@ Done,5,Longest Palindromic Substring,29.5%,Medium,3.0113240473668283, https://le
 Done,8,String to Integer (atoi),15.4%,Medium,2.9764877691901113, https://leetcode.com/problems/string-to-integer-atoi
 Done,75,Sort Colors,47.3%,Medium,2.3276926686708626, https://leetcode.com/problems/sort-colors
 ,56,Merge Intervals,39.3%,Medium,1.6137424284012196, https://leetcode.com/problems/merge-intervals
+,494,Target Sum,46.3%,Medium,0.04353244473664264, https://leetcode.com/problems/target-sum
