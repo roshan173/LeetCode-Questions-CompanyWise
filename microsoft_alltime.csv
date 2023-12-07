@@ -4,7 +4,6 @@ Status,ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 ,236,Lowest Common Ancestor of a Binary Tree,45.7%,Medium,2.568849235431705, https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree
 ,116,Populating Next Right Pointers in Each Node,45.2%,Medium,2.524874081924768, https://leetcode.com/problems/populating-next-right-pointers-in-each-node
 ,722,Remove Comments,34.6%,Medium,2.331903153750657, https://leetcode.com/problems/remove-comments
-,24,Swap Nodes in Pairs,50.4%,Medium,2.327380452152487, https://leetcode.com/problems/swap-nodes-in-pairs
 ,535,Encode and Decode TinyURL,79.9%,Medium,2.3039774779456117, https://leetcode.com/problems/encode-and-decode-tinyurl
 ,48,Rotate Image,56.7%,Medium,2.303733858197919, https://leetcode.com/problems/rotate-image
 ,98,Validate Binary Search Tree,27.8%,Medium,2.2943555684399337, https://leetcode.com/problems/validate-binary-search-tree
@@ -507,3 +506,4 @@ Done,75,Sort Colors,47.3%,Medium,2.3276926686708626, https://leetcode.com/proble
 ,445,Add Two Numbers II,54.5%,Medium,2.529048190547753, https://leetcode.com/problems/add-two-numbers-ii
 ,402,Remove K Digits,28.4%,Medium,2.4166575492538938, https://leetcode.com/problems/remove-k-digits
 ,151,Reverse Words in a String,21.9%,Medium,2.3264780134045004, https://leetcode.com/problems/reverse-words-in-a-string
+,24,Swap Nodes in Pairs,50.4%,Medium,2.327380452152487, https://leetcode.com/problems/swap-nodes-in-pairs
