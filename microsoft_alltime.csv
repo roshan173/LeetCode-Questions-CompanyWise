@@ -35,7 +35,6 @@ Status,ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 ,238,Product of Array Except Self,60.1%,Medium,1.539762660750497, https://leetcode.com/problems/product-of-array-except-self
 ,139,Word Break,40.1%,Medium,1.5067078235450475, https://leetcode.com/problems/word-break
 ,31,Next Permutation,32.6%,Medium,1.4952605643210366, https://leetcode.com/problems/next-permutation
-,61,Rotate List,30.0%,Medium,1.4847733982613056, https://leetcode.com/problems/rotate-list
 ,227,Basic Calculator II,36.9%,Medium,1.4336576098594838, https://leetcode.com/problems/basic-calculator-ii
 ,127,Word Ladder,29.6%,Medium,1.4284947156102672, https://leetcode.com/problems/word-ladder
 ,322,Coin Change,35.5%,Medium,1.4268982821969922, https://leetcode.com/problems/coin-change
@@ -116,7 +115,6 @@ Status,ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 ,55,Jump Game,34.6%,Medium,0.44156297053083593, https://leetcode.com/problems/jump-game
 ,314,Binary Tree Vertical Order Traversal,45.3%,Medium,0.4380937008921841, https://leetcode.com/problems/binary-tree-vertical-order-traversal
 ,280,Wiggle Sort,63.8%,Medium,0.4358425582560355, https://leetcode.com/problems/wiggle-sort
-,692,Top K Frequent Words,51.8%,Medium,0.43507396043031815, https://leetcode.com/problems/top-k-frequent-words
 ,698,Partition to K Equal Sum Subsets,45.0%,Medium,0.42725858927476734, https://leetcode.com/problems/partition-to-k-equal-sum-subsets
 ,162,Find Peak Element,43.3%,Medium,0.41607906913719583, https://leetcode.com/problems/find-peak-element
 ,50,Pow(x;n),30.3%,Medium,0.4096992146874839, https://leetcode.com/problems/powx-n
@@ -507,3 +505,5 @@ Done,75,Sort Colors,47.3%,Medium,2.3276926686708626, https://leetcode.com/proble
 ,151,Reverse Words in a String,21.9%,Medium,2.3264780134045004, https://leetcode.com/problems/reverse-words-in-a-string
 ,24,Swap Nodes in Pairs,50.4%,Medium,2.327380452152487, https://leetcode.com/problems/swap-nodes-in-pairs
 ,419,Battleships in a Board,70.0%,Medium,2.2726225948204313, https://leetcode.com/problems/battleships-in-a-board
+,692,Top K Frequent Words,51.8%,Medium,0.43507396043031815, https://leetcode.com/problems/top-k-frequent-words
+,61,Rotate List,30.0%,Medium,1.4847733982613056, https://leetcode.com/problems/rotate-list
