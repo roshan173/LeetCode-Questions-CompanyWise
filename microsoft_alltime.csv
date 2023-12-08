@@ -6,7 +6,6 @@ Status,ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 ,722,Remove Comments,34.6%,Medium,2.331903153750657, https://leetcode.com/problems/remove-comments
 ,535,Encode and Decode TinyURL,79.9%,Medium,2.3039774779456117, https://leetcode.com/problems/encode-and-decode-tinyurl
 ,48,Rotate Image,56.7%,Medium,2.303733858197919, https://leetcode.com/problems/rotate-image
-,98,Validate Binary Search Tree,27.8%,Medium,2.2943555684399337, https://leetcode.com/problems/validate-binary-search-tree
 ,105,Construct Binary Tree from Preorder and Inorder Traversal,48.8%,Medium,2.283021466343346, https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal
 ,223,Rectangle Area,37.8%,Medium,2.2593091095122237, https://leetcode.com/problems/rectangle-area
 ,1239,Maximum Length of a Concatenated String with Unique Characters,47.8%,Medium,2.194070311537135, https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters
@@ -507,3 +506,4 @@ Done,75,Sort Colors,47.3%,Medium,2.3276926686708626, https://leetcode.com/proble
 ,419,Battleships in a Board,70.0%,Medium,2.2726225948204313, https://leetcode.com/problems/battleships-in-a-board
 ,692,Top K Frequent Words,51.8%,Medium,0.43507396043031815, https://leetcode.com/problems/top-k-frequent-words
 ,61,Rotate List,30.0%,Medium,1.4847733982613056, https://leetcode.com/problems/rotate-list
+,98,Validate Binary Search Tree,27.8%,Medium,2.2943555684399337, https://leetcode.com/problems/validate-binary-search-tree
