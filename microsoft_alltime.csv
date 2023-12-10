@@ -6,7 +6,6 @@ Status,ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 ,1239,Maximum Length of a Concatenated String with Unique Characters,47.8%,Medium,2.194070311537135, https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters
 ,794,Valid Tic-Tac-Toe State,32.6%,Medium,2.1777117631126375, https://leetcode.com/problems/valid-tic-tac-toe-state
 ,545,Boundary of Binary Tree,38.9%,Medium,2.1677790029375226, https://leetcode.com/problems/boundary-of-binary-tree
-,22,Generate Parentheses,62.7%,Medium,2.0785670335349034, https://leetcode.com/problems/generate-parentheses
 ,73,Set Matrix Zeroes,43.1%,Medium,2.0775918912648, https://leetcode.com/problems/set-matrix-zeroes
 ,450,Delete Node in a BST,43.1%,Medium,2.048205702566481, https://leetcode.com/problems/delete-node-in-a-bst
 ,103,Binary Tree Zigzag Level Order Traversal,48.3%,Medium,2.010536070419761, https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal
@@ -507,3 +506,4 @@ Done,75,Sort Colors,47.3%,Medium,2.3276926686708626, https://leetcode.com/proble
 ,236,Lowest Common Ancestor of a Binary Tree,45.7%,Medium,2.568849235431705, https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree
 ,116,Populating Next Right Pointers in Each Node,45.2%,Medium,2.524874081924768, https://leetcode.com/problems/populating-next-right-pointers-in-each-node
 ,722,Remove Comments,34.6%,Medium,2.331903153750657, https://leetcode.com/problems/remove-comments
+,22,Generate Parentheses,62.7%,Medium,2.0785670335349034, https://leetcode.com/problems/generate-parentheses
