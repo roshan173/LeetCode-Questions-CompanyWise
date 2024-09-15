@@ -243,7 +243,7 @@ Done,ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
  ,149,Max Points on a Line,16.9%,Hard,0.1460315553887541, https://leetcode.com/problems/max-points-on-a-line
  ,65,Valid Number,15.3%,Hard,0.0507150925790164, https://leetcode.com/problems/valid-number
  ,420,Strong Password Checker,14.0%,Hard,0.1325466559619831, https://leetcode.com/problems/strong-password-checker
- ,1265,Print Immutable Linked List in Reverse,94.6%,Medium,0.2620761215466096, https://leetcode.com/problems/print-immutable-linked-list-in-reverse
+Premium,1265,Print Immutable Linked List in Reverse,94.6%,Medium,0.2620761215466096, https://leetcode.com/problems/print-immutable-linked-list-in-reverse
  ,535,Encode and Decode TinyURL,79.9%,Medium,0.0419788813386612, https://leetcode.com/problems/encode-and-decode-tinyurl
  ,654,Maximum Binary Tree,79.9%,Medium,0.0206086634277896, https://leetcode.com/problems/maximum-binary-tree
  ,894,All Possible Full Binary Trees,75.2%,Medium,0.1950265086992262, https://leetcode.com/problems/all-possible-full-binary-trees
